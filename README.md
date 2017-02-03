@@ -5,7 +5,7 @@ I made this script to handle very specific case where my friends script on my se
 
 USAGE: 
 Copy script to desired folder and use command<br>
-./ userLimit.sh <i>username maxprecentage</i><br>
+./userLimit.sh <i>username maxprecentage</i><br>
 if this does not work make certain that your user has permission to run it. <br>
 To make it work in backround use cntrl + z<br>
 and to kill it check the pid with command<br>
